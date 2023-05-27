@@ -1,0 +1,25 @@
+h1{ text-align: center; 
+font-style: oblique;
+text-shadow: teal;
+}
+body{
+    background-color: aliceblue;
+    margin: 5px;
+    text-shadow: teal;
+}
+.editing{ 
+    text-decoration-color: rgb(56, 52, 52);
+    font-size: medium;
+    padding: 5px;
+    margin: 4px;
+    font-style: oblique;
+    box-shadow: slategray;
+
+
+}
+.id :hover{ pointer-events: stroke;
+    background-color: rgb(166, 231, 101);
+    width: 15px;
+    
+    
+}
